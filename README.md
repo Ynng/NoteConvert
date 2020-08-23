@@ -10,3 +10,4 @@ And more bad coding practices!
 # Content
 * [Daygram](https://www.daygram.today/) exports to [Cola Notes](http://colanotes.com/)'s backup format: [daygram2colanotes](https://github.com/Ynng/NoteConvert/blob/master/daygram2colanotes.py)
 * [Google Keep](https://keep.google.com/u/0/) takeouts to [Simple Note](https://simplenote.com/)'s json format: [keep2simplenote](https://github.com/Ynng/NoteConvert/blob/master/keep2simplenote.py)
+* [TextBundle](http://textbundle.org/) to [Simple Note](https://simplenote.com/)'s json format: [textbundle2simplenote](https://github.com/Ynng/NoteConvert/blob/master/textbundle2simplenote.py)
